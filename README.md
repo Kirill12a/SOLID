@@ -1,5 +1,4 @@
 
-
 ![N|Solid](https://techrocks.ru/wp-content/uploads/2020/08/solid.png)
 ##### SOLID — это аббревиатура пяти основных принципов проектирования в объектно-ориентированном программировании.
 
@@ -30,7 +29,6 @@
 #
 ![N|Solid](https://user-images.githubusercontent.com/45273279/140958814-cf7b5546-5c94-42bb-a9b4-d6a2f2f0e569.png)
 >Принцип инверсии зависимостей. Модули верхних уровней не должны зависеть от модулей нижних уровней.
-
 ```swift
 protocol Repo{
     func get()
