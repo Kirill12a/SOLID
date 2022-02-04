@@ -43,10 +43,3 @@ class MyClass{
     var repo: Repo = NoteRepo()
 }
 ```
-
-
-
-
-**BB!**
-
-
